@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Afro Lottery System",
+    "slug": "africalotterysystem",
+    "version": "1.0.21",
+    "orientation": "portrait",
+    "icon": "./assets/lottery-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": null,
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "useNextNotificationsApi": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.neurospherepvtltd.afrikalottery",
+      "buildNumber":"21"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/lottery-android-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.neurospherepvtltd.afrikalottery",
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "versionCode": 21 
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e048e5c7-3d85-4af8-ba30-e4a64c538475"
+      }
+    },
+    "owner": "neurospherepvtltd"
+  }
+}

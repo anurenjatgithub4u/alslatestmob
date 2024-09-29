@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815529978128",
+    "project_id": "als-notification-test",
+    "storage_bucket": "als-notification-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815529978128:android:2792a0d9958fa2108a5d95",
+        "android_client_info": {
+          "package_name": "com.neurospherepvtltd.afrikalottery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4ljg6K0riQjOr3p2qELuDg7Z1F77xIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

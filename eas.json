@@ -1,0 +1,25 @@
+{
+  "cli": {
+    "version": ">= 5.9.1"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {
+
+      "ios":{
+        "appleId":"admin@crowdafrik.com",
+        "ascAppId":"6478978244",
+        "appleTeamId":"5GZR5485ZN"
+      }
+    }
+  }
+}
